@@ -2,6 +2,7 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums){
         unordered_set<int> s;
+        s.reserve(nums.size());
         for(auto e:nums){
             if(s.find(e)!=s.end()){
                 return 1;
