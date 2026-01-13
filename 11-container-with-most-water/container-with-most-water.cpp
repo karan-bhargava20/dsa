@@ -5,9 +5,7 @@ public:
         int r = height.size()-1;
         int maxi = 0;
         while(l<r){
-            int h = min(height[l],height[r]);
-            int w = r-l;
-            maxi = max(h*w,maxi);
+            maxi = max( min(height[l],height[r])*(r-l),maxi);
             if(height[l]<=height[r]){
                 l++;
             }
