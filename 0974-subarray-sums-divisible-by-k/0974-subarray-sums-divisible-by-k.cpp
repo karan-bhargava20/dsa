@@ -8,7 +8,7 @@ public:
         mp[0]=1;
         for(int i = 0 ; i<n ; i++){
             prefix += nums[i];
-            int rem = prefix % k;
+            int rem =( prefix % k + k )%k;
             auto it = mp.find(rem);
             if(it != mp.end()){
                 cnt += it->second;
