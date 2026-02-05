@@ -15,14 +15,14 @@ public:
                 count += customers[r];
             }
         }
-        maxi = max(maxi , count);
+        maxi = count ;
         for(int r = minutes ; r<n ; r++){
-            if(grumpy[r-minutes]){
-                count -= customers[r-minutes];
-            }
-             if(grumpy[r]){
-                count += customers[r];
-            }
+            if(grumpy[r-minutes])
+            count -= customers[r-minutes];
+            
+            if(grumpy[r])
+            count += customers[r];
+            
             maxi = max(maxi , count);
         }
         return maxi;
