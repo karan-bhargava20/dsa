@@ -1,33 +1,29 @@
 class Solution {
 public:
     vector<int> decrypt(vector<int>& code, int k) {
-        vector<int>ans;
-        int n = code.size();
-        int sum = 0;
-
+        vector<int>ans(code.size(),0);
         if(k==0){
-            for(int i=0;i<n;i++){
-                ans.push_back(0);
-            }
+            return ans;
         }
-        else if(k>0){
-           for(int i = 0 ; i<k ; i++){
+        int sum = 0;
+        int n = code.size();
+        int s = 1;
+        int e = k;
+        if(k<0){
+            k = -k;
+            s = n-k;
+            e = n-1;
+        }
+        for(int i=s ; i<=e ; i++){
             sum += code[i];
-            }
-            for(int i = 0 ; i<n ; i++){
-            sum = sum - code[i] + code[(i+k)%n];
-            ans.push_back(sum);
-            }
         }
-        else {
-            for(int i=n+k ; i<n ; i++){
-                sum = sum+code[i];
-            }
-            ans.push_back(sum);
-            for(int i = 1 ; i<n ; i++){
-                sum = sum + code[i-1] - code[(n+k+i-1)%n];
-                ans.push_back(sum);
-            }
+        
+        for(int i = 0 ; i<n ; i++){
+            ans[i]=sum;
+            sum-=code[s%n];
+            s++;
+            e++;
+            sum+=code[e%n];
         }
         return ans;
     }
