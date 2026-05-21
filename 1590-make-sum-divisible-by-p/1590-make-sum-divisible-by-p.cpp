@@ -3,7 +3,7 @@ public:
     int minSubarray(vector<int>& nums, int p) {
         long long total_sum = accumulate(nums.begin() , nums.end() , 0LL);
         //( total_sum -  prefix_i ) %p == 0 -> subarray(i+1 to n) div by p
-        int rem = (total_sum + p) % p; // 0,1,2,3,...,p-1
+        int rem = (total_sum + p ) % p; // 0,1,2,3,...,p-1
         if(rem == 0 ) {
             return 0;
         }
