@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/karan-bhargava20/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/karan-bhargava20/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/karan-bhargava20/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karan-bhargava20/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Two Pointers
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/karan-bhargava20/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/karan-bhargava20/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/karan-bhargava20/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
