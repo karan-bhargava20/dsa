@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/karan-bhargava20/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/karan-bhargava20/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -76,8 +78,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1314-matrix-block-sum](https://github.com/karan-bhargava20/dsa/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
