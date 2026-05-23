@@ -9,14 +9,16 @@ public:
         currPassenger[fromi] += numPassengersi;
         currPassenger[toi] -= numPassengersi;
        }
-       for(int i=1 ; i<currPassenger.size() ; i++){
+       
+       for(int i=1 ; i<1001 ; i++){
             currPassenger[i] += currPassenger[i-1];
-       }
-       for(int i=0 ; i<currPassenger.size() ; i++){
-            if(currPassenger[i]>capacity){
+            if(currPassenger[i-1]>capacity){
                 return false;
             }
        }
+       if(currPassenger[1000]>capacity){
+                return false;
+            }
        return true;
          
     }
