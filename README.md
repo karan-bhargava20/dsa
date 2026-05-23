@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/karan-bhargava20/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1094-car-pooling](https://github.com/karan-bhargava20/dsa/tree/main/1094-car-pooling/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/karan-bhargava20/dsa/tree/main/1314-matrix-block-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/karan-bhargava20/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -27,9 +28,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/karan-bhargava20/dsa/tree/main/0075-sort-colors/) | Medium |
+| [1094-car-pooling](https://github.com/karan-bhargava20/dsa/tree/main/1094-car-pooling/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/karan-bhargava20/dsa/tree/main/1094-car-pooling/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karan-bhargava20/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -68,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1094-car-pooling](https://github.com/karan-bhargava20/dsa/tree/main/1094-car-pooling/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/karan-bhargava20/dsa/tree/main/1314-matrix-block-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/karan-bhargava20/dsa/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -87,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1314-matrix-block-sum](https://github.com/karan-bhargava20/dsa/tree/main/1314-matrix-block-sum/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/karan-bhargava20/dsa/tree/main/1094-car-pooling/) | Medium |
 <!---LeetCode Topics End-->
