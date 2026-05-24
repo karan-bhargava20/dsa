@@ -4,7 +4,6 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        vector<vector<int>>prefix(m,vector<int>(n,0));
         for(int i = 0; i < m ; i++){
             for(int j = 1 ; j < n ; j++){
                 matrix[i][j] +=  matrix[i][j - 1] ;
