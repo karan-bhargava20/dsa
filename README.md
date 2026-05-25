@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/karan-bhargava20/dsa/tree/main/0075-sort-colors/) | Medium |
+| [0260-single-number-iii](https://github.com/karan-bhargava20/dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -101,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/karan-bhargava20/dsa/tree/main/1094-car-pooling/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0260-single-number-iii](https://github.com/karan-bhargava20/dsa/tree/main/0260-single-number-iii/) | Medium |
 <!---LeetCode Topics End-->
