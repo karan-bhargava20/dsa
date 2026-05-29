@@ -9,18 +9,18 @@ public:
         int ans = 0;
 
         cnt[0] = 1;
-        total[0] = 0;
+        total[0] = -1;
 
-        for(int i = 0; i < arr.size(); i++) {
+        for(int r = 0; r < arr.size(); r++) {
 
-            xr ^= arr[i];
+            xr ^= arr[r];
 
             if(cnt.count(xr)) {
-                ans += cnt[xr] * i - total[xr];
+                ans += cnt[xr] * (r-1) - total[xr];
             }
 
             cnt[xr]++;
-            total[xr] += i + 1;
+            total[xr] += r;
         }
 
         return ans;
