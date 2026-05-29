@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/karan-bhargava20/dsa/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karan-bhargava20/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/karan-bhargava20/dsa/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/karan-bhargava20/dsa/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/karan-bhargava20/dsa/tree/main/0260-single-number-iii/) | Medium |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/karan-bhargava20/dsa/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/karan-bhargava20/dsa/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 <!---LeetCode Topics End-->
