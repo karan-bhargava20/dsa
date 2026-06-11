@@ -25,22 +25,33 @@ public:
     //     if(cnt % 3 == 1){
     //         ans |= 1 << bit;
     //     }
-
     // }
     // return ans;
     // }
     // 3ms Beats 30.34%
-    sort(nums.begin(), nums.end());
-    int ans = 0 ;
-    int n = nums.size();
-    for(int i=1 ; i<n ; i=i+3){
-        if( nums[i-1] != nums[i] ){
-            return nums[i-1];
-        }
+
+    // sort(nums.begin(), nums.end());
+    // int ans = 0 ;
+    // int n = nums.size();
+    // for(int i=1 ; i<n ; i=i+3){
+    //     if( nums[i-1] != nums[i] ){
+    //         return nums[i-1];
+    //     }
+    // }
+    // return nums[n-1];
+    // 0ms Beats100.00% Memory
+
+    int bkt_1 = 0;
+    int bkt_2 = 0;
+    for(auto num : nums){
+        bkt_1 = (bkt_1 ^ num) & ~bkt_2;
+        bkt_2 = (bkt_2 ^ num) & ~bkt_1;
     }
-    return nums[n-1];
+    return bkt_1;
     }
 };
+
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
