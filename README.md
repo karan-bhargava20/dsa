@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/karan-bhargava20/dsa/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/karan-bhargava20/dsa/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/karan-bhargava20/dsa/tree/main/0075-sort-colors/) | Medium |
 | [0260-single-number-iii](https://github.com/karan-bhargava20/dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karan-bhargava20/dsa/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-bhargava20/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Design
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/karan-bhargava20/dsa/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/karan-bhargava20/dsa/tree/main/1074-number-of-submatrices-that-sum-to-target/) | Hard |
 | [1314-matrix-block-sum](https://github.com/karan-bhargava20/dsa/tree/main/1314-matrix-block-sum/) | Medium |
