@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/karan-bhargava20/dsa/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karan-bhargava20/dsa/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/karan-bhargava20/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karan-bhargava20/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -117,4 +118,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/karan-bhargava20/dsa/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karan-bhargava20/dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karan-bhargava20/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
