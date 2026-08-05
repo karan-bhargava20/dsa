@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/karan-bhargava20/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Matrix
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/karan-bhargava20/dsa/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -147,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/karan-bhargava20/dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
