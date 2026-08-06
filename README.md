@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karan-bhargava20/dsa/tree/main/0075-sort-colors/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/karan-bhargava20/dsa/tree/master/0234-palindrome-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karan-bhargava20/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Sorting
 |  |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/karan-bhargava20/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/karan-bhargava20/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/karan-bhargava20/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/karan-bhargava20/dsa/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -156,4 +158,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/karan-bhargava20/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/karan-bhargava20/dsa/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/karan-bhargava20/dsa/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/karan-bhargava20/dsa/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
