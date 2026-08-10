@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/karan-bhargava20/dsa/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/karan-bhargava20/dsa/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0496-next-greater-element-i](https://github.com/karan-bhargava20/dsa/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/karan-bhargava20/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/karan-bhargava20/dsa/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/karan-bhargava20/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karan-bhargava20/dsa/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/karan-bhargava20/dsa/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/karan-bhargava20/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/karan-bhargava20/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-bhargava20/dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/karan-bhargava20/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/karan-bhargava20/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/karan-bhargava20/dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/karan-bhargava20/dsa/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -166,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/karan-bhargava20/dsa/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/karan-bhargava20/dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
