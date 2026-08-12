@@ -28,13 +28,14 @@ private:
         }
     }
 public:
+    // Time Complexity: O(N) where N is the number of nodes, as we visit each node once.
+    // Space Complexity: O(N) in the worst case (skewed tree) due to recursion stack.
     vector<int> preorder(Node* root) {
         vector<int>ans;
         traverse(root, ans);
         return ans;
     }
 };
-
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
